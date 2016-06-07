@@ -1,1 +1,4 @@
 This is the first ever git file and im using git for the first proper usage.
+So how about checking how it is doing ??
+
+It is little tricky though at the beginning. Anyhow, im not going to leave this without any success message.
